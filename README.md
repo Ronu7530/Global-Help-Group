@@ -4,6 +4,7 @@ Owner: Ronu Chakma
 
 Project Description:
 
+
 Global Help Group is an innovative Android app designed to empower users to participate in online earning programs, such as cryptocurrency mining, airdrop participation, and ad view bonuses. The app combines these earning opportunities with a seamless and intuitive interface, allowing users to sign up using their email or phone number and activate their account by adding funds.
 
 Global Help Group also integrates a powerful referral system where users can invite others to join and, in return, earn rewards and unlock bonuses. Each user receives a signup bonus upon registration, which can be withdrawn after referring at least two other users. This encourages community growth while rewarding early adopters.
